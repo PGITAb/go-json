@@ -1,3 +1,3 @@
-module github.com/goccy/go-json
+module github.com/PGITAb/go-json
 
-go 1.12
+go 1.18
