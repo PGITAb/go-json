@@ -8,8 +8,8 @@ import (
 	"sync/atomic"
 	"unsafe"
 
-	"github.com/goccy/go-json/internal/errors"
-	"github.com/goccy/go-json/internal/runtime"
+	"github.com/PGITAb/go-json/internal/errors"
+	"github.com/PGITAb/go-json/internal/runtime"
 )
 
 type marshalerContext interface {

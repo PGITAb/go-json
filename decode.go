@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/goccy/go-json/internal/decoder"
-	"github.com/goccy/go-json/internal/errors"
-	"github.com/goccy/go-json/internal/runtime"
+	"github.com/PGITAb/go-json/internal/decoder"
+	"github.com/PGITAb/go-json/internal/errors"
+	"github.com/PGITAb/go-json/internal/runtime"
 )
 
 type Decoder struct {
